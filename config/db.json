@@ -1,0 +1,10 @@
+{
+    "development": {
+      "name": "media-application",
+      "username": "",
+      "password": "",
+      "host": "localhost:27017",
+      "required": true
+    }
+  }
+  

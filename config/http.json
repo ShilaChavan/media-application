@@ -1,0 +1,6 @@
+{
+    "development": {
+      "port": "3001",
+      "whitelist": []
+    }
+}
